@@ -1,0 +1,16 @@
+Flow ID,Test Steps,Flow Priority
+1,"step 1: Navigate to Page home
+step 2: At Page home click on hyperlink ch i m b --> navigate to Page do-choi-me-be c2549
+step 3: At Page do-choi-me-be c2549 click on hyperlink tka tiki vn pixel pixel --> navigate to Page bo-2-hop-sua-bot-friso-gold-4-1400g-danh-cho-
+step 4: At Page bo-2-hop-sua-bot-friso-gold-4-1400g-danh-cho- click on hyperlink do choi me be c2549 --> navigate to Page do-choi-me-be c2549
+step 5: Add visual checkpoint at Page do-choi-me-be c2549",High
+4,"step 1: Navigate to Page dien-thoai-may-tinh-bang c1789
+step 2: Add visual checkpoint at Page dien-thoai-may-tinh-bang c1789",Low
+3,"step 1: Navigate to Page lam-dep-suc-khoe c1520
+step 2: Add visual checkpoint at Page lam-dep-suc-khoe c1520",Low
+2,"step 1: Navigate to Page ~partytown partytown-sandbox-sw html
+step 2: Add visual checkpoint at Page ~partytown partytown-sandbox-sw html",Low
+5,"step 1: Navigate to Page dien-gia-dung c1882
+step 2: Add visual checkpoint at Page dien-gia-dung c1882",Trivial
+6,"step 1: Navigate to Page thoi-trang-nam c915
+step 2: Add visual checkpoint at Page thoi-trang-nam c915",Trivial
